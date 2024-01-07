@@ -1,9 +1,10 @@
 ### Hey there.
 
-I'm a software engineer currently working in Cisco's Collaboration Division, building services to support the Webex video devices.
+I'm a software engineer currently working in Cisco's Collaboration Division, building services to support the [Webex video devices](hardware.webex.com).
 
 ###
-I'm familiar with the following technologies:
+<br>
+<br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
   <img width="12" />
@@ -29,7 +30,6 @@ I'm familiar with the following technologies:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
 </div>
-###
 
 <!--
 **harveyives/harveyives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
