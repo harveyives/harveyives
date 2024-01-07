@@ -2,6 +2,8 @@
 
 I'm a software engineer currently working in Cisco's Collaboration Division, building services to support the Webex video devices.
 
+###
+I'm familiar with the following technologies:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
   <img width="12" />
@@ -27,13 +29,6 @@ I'm a software engineer currently working in Cisco's Collaboration Division, bui
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/harveyives/count.svg?"  />
-</div>
-
 ###
 
 <!--
