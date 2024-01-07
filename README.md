@@ -4,7 +4,6 @@ I'm a software engineer currently working in Cisco's Collaboration Division, bui
 
 ###
 <br>
-<br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
   <img width="12" />
