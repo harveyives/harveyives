@@ -1,6 +1,6 @@
 ### Hey there.
 
-I'm a software engineer currently working in Cisco's Collaboration Division, building services to support the [Webex video devices](hardware.webex.com).
+I'm a software engineer currently working in Cisco's Collaboration Division, building services to support the [Webex video devices](https://hardware.webex.com).
 
 ###
 <br>
